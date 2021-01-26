@@ -1,0 +1,10 @@
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\bin\Debug\CPP-App.exe.config
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\bin\Debug\CPP-App.exe
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\bin\Debug\CPP-App.pdb
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\obj\Debug\CPP-App.csprojAssemblyReference.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\obj\Debug\CPP_App.Form1.resources
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\obj\Debug\CPP_App.Properties.Resources.resources
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\obj\Debug\CPP-App.csproj.GenerateResource.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\obj\Debug\CPP-App.csproj.CoreCompileInputs.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\obj\Debug\CPP-App.exe
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPP-App\obj\Debug\CPP-App.pdb

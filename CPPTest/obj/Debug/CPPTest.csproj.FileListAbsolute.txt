@@ -1,0 +1,17 @@
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\obj\Debug\CPPTest.csprojAssemblyReference.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\obj\Debug\CPPTest.csproj.CoreCompileInputs.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\CPPTest.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\CPPTest.pdb
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\CPP-App.exe
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\CPP-App.pdb
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\CPP-App.exe.config
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\obj\Debug\CPPTest.csproj.CopyComplete
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\obj\Debug\CPPTest.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\CPPTest\obj\Debug\CPPTest.pdb

@@ -1,0 +1,16 @@
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\13572\b\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\13572\b\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\13572\b\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\13572\b\CPPTest\bin\Debug\CPPTest.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\13572\i\CPPTest\Debug\CPPTest.csprojAssemblyReference.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\13572\i\CPPTest\Debug\CPPTest.csproj.CoreCompileInputs.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\13572\i\CPPTest\Debug\CPPTest.csproj.CopyComplete
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\13572\i\CPPTest\Debug\CPPTest.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\10532\b\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\10532\b\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\10532\b\CPPTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\10532\b\CPPTest\bin\Debug\CPPTest.dll
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\10532\i\CPPTest\Debug\CPPTest.csprojAssemblyReference.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\10532\i\CPPTest\Debug\CPPTest.csproj.CoreCompileInputs.cache
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\10532\i\CPPTest\Debug\CPPTest.csproj.CopyComplete
+C:\Users\M3800\Desktop\CPP\CPP-App\CPP-App\.vs\CPP-App\lut\10532\i\CPPTest\Debug\CPPTest.dll
